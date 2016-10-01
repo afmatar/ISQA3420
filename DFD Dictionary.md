@@ -14,9 +14,9 @@ software package : a package came from license scanning and go to devleoper and 
 
 #External Entities 
 
-Coroporate Manger : 
+Coroporate Manger : who response a process of leading and administrating 
 
-coroporate devleoper :
+coroporate devleoper : is a man or women or machine how responsible for scanning and  manage the open sourese 
 
 
 #processes 
