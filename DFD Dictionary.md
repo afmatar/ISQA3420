@@ -10,7 +10,7 @@ software package : a package came from license scanning and go to devleoper and 
 
 
 #Data Stores 
- Data Store : Database that has known granular Data .
+ Software Package License and Vulnerability Information : Database that has known granular Data .
 
 #External Entities 
 
