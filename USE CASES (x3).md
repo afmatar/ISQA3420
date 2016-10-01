@@ -1,16 +1,16 @@
 
-#Title: Determine License and Vulnerability Information
+Title: Determine License and Vulnerability Information
 
-#Primary Actor: Corporate Manager
+Primary Actor: Corporate Manager
 
-#Goal in Context:
+Goal in Context:
 
-#Stakeholders:
+Stakeholders:
 
-#Preconditions:
+Preconditions:
 
-#Main Success Scenario:
+Main Success Scenario:
 
-#Failed End Conditions:
+Failed End Conditions:
 
-#Trigger:
+Trigger:
