@@ -1,16 +1,16 @@
 
-Title: Determine License and Vulnerability Information
+Title:
 
 Primary Actor: Corporate Manager
 
 Goal in Context:
 
-Stakeholders:
+Stakeholders: Developer , Manager .
 
 Preconditions:
 
-Main Success Scenario:
+Main Success Scenario: the corporate manager receives software package license vulnerability information .
 
 Failed End Conditions:
 
-Trigger:
+Trigger: 
