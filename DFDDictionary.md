@@ -1,5 +1,5 @@
 
-  #Data Flows 
+  ##Data Flows 
 
   Software package: A package from Developer and go to manage software package.
 
@@ -43,7 +43,7 @@
 
   Policy DB Results: Came from Policy DB and go to Summarize Policy process. 
   
-  #Data Stores
+  ##Data Stores
 
    Software Package License and Vulnerability Information: Data Store that has known as License and Vulnerability Information.
 
@@ -51,7 +51,7 @@
 
    policy DB: Data Store that has known as policy DB. 
 
-  #External Entities 
+  ##External Entities 
  
   Corporate Developer:how make and help to developer the System.
   
@@ -59,7 +59,7 @@
     for managing and check system for the project.
 
     
- #Processes 
+  ##Processes 
 
   Manage software package form license scanning: manage the data and the package License.
 
