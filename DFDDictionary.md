@@ -53,9 +53,10 @@
 
   #External Entities 
  
-  Corporate Developer: how make and help to developer the System.
+  Corporate Developer:how make and help to developer the System.
 
-    Corporate Manager:  how response about the organize and do the mission for managing and check system for the project.
+    Corporate Manager:how response about the organize and do the mission
+    for managing and check system for the project.
 
  #Processes 
 
