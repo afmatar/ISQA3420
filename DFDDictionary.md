@@ -54,10 +54,11 @@
   #External Entities 
  
   Corporate Developer:how make and help to developer the System.
-
-    Corporate Manager:how response about the organize and do the mission
+  
+  Corporate Manager:how response about the organize and do the mission
     for managing and check system for the project.
 
+    
  #Processes 
 
   Manage software package form license scanning: manage the data and the package License.
