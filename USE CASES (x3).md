@@ -1,20 +1,20 @@
 #USE CASE 1
 
-Title: Corporate manger the software 
+Title: the prossess of recovery and response the policy   
 
 Primary Actor:  Manager
 
-Goal in Context: get the manager the software package and license information form license vulnerability information
+Goal in Context: Creat the poilcy for the manager by get the database from policy DB 
 
 Stakeholders: Developer , Manager .
 
-Preconditions: manager have ability to see all the information from the data store and cheack the code  
+Preconditions: Manager have ability to see all the information from the data store and check the code  
 
-Main Success Scenario: the corporate manager receives  software package from license vulnerability information .
+Main Success Scenario: the corporate manager receive the policy database by the policy process. 
 
-Failed End Conditions: the corporate manager not receives  software package from license vulnerability information .
+Failed End Conditions: the corporate manager not receives the policy database by the policy process.
 
-Trigger: see the code  
+Trigger: Make / creat Policy  
 
 ___________________________________________________________________________________________________________
 #USE CASE 2
