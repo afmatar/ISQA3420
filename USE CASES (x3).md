@@ -1,20 +1,20 @@
 #USE CASE 1
 
-Title: the prossess of recovery and response the policy   
+**Title:** the prossess of recovery and response the policy   
 
-Primary Actor:  Manager
+**Primary Actor:** Manager
 
-Goal in Context: Creat the poilcy for the manager by get the database from policy DB 
+**Goal in Context:** Creat the poilcy for the manager by get the database from policy DB 
 
-Stakeholders: Developer , Manager .
+**Stakeholders:** Developer , Manager .
 
-Preconditions: Manager have ability to see all the information from the data store and check the code  
+**Preconditions:** Manager have ability to see all the information from the data store and check the code  
 
-Main Success Scenario: the corporate manager receive the policy database by the policy process. 
+**Main Success Scenario:** the corporate manager receive the policy database by the policy process. 
 
-Failed End Conditions: the corporate manager not receives the policy database by the policy process.
+**Failed End Conditions:** the corporate manager not receives the policy database by the policy process.
 
-Trigger: Make / creat Policy  
+**Trigger:** Make / creat Policy  
 
 ___________________________________________________________________________________________________________
 #USE CASE 2
