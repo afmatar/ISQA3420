@@ -1,20 +1,20 @@
 #USE CASE 1
 
-**Title:** the prossess of recovery and response the policy   
+**Title:** Retrieve software project policy to compare against software project license and vulnerability information
 
 **Primary Actor:** Manager
 
-**Goal in Context:** Creat the poilcy for the manager by get the database from policy DB 
+**Goal in Context:** To successfully retrieve the software project policy
 
-**Stakeholders:** Developer , Manager .
+**Stakeholders:** Developer, Manager
 
-**Preconditions:** Manager have ability to see all the information from the data store and check the code  
+**Preconditions:** Software project policies are stored in the policy database 
 
-**Main Success Scenario:** the corporate manager receive the policy database by the policy process. 
+**Main Success Scenario:** the corporate manager receives the policy from the policy database
 
-**Failed End Conditions:** the corporate manager not receives the policy database by the policy process.
+**Failed End Conditions:** the corporate manager does not receive the policy from the policy database
 
-**Trigger:** Make / creat Policy  
+**Trigger:** the corporate manager sends the request for the software project policy
 
 ___________________________________________________________________________________________________________
 #USE CASE 2
