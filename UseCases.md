@@ -1,4 +1,6 @@
- #USE CASE 1
+ 
+#USE CASE 1
+
 **Title:** Retrieve software project policy to compare against software project license and vulnerability information.
  
 **Primary Actor:** Manager.
