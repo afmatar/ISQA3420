@@ -3,7 +3,7 @@
 
   **Software package:** A package from Developer and go to manage software package.
 
-  **Software Package License and Vulnerability Results:** a result package from manage software package form license scanning and go to developer.
+  **Software Package License and Vulnerability Results:** A result package from manage software package form license scanning and go to developer.
 
   **Software package:** A package came from license scanning and go to developer and go to scan for licenses.
 
@@ -11,7 +11,7 @@
 
   **Software Package Name:** A package Came from Manage Software Package for License Scanning process and go to NIST Vulnerability DB.
 
-  **NIST Vulnerability Package Results:** a package came from NIST Vulnerability DB and go to Manage Software Package for License Scanning process.
+  **NIST Vulnerability Package Results:** A package came from NIST Vulnerability DB and go to Manage Software Package for License Scanning process.
 
   **Software Package License and Vulnerability Results:** Came from Manage Software Package for License Scanning process and go to Software Package License and Vulnerability Information DB.
 
@@ -53,22 +53,22 @@
 
 #EXTERNAL ENTITIES 
  
-  **Corporate Developer:**how make and help to developer the System.
+  **Corporate Developer:** How make and help to developer the System.
   
-  **Corporate Manager:**how response about the organize and do the mission
+  **Corporate Manager:** How response about the organize and do the mission
     for managing and check system for the project.
 
     
 #PROCESSES
 
-  **Manage software package form license scanning:** manage the data and the package License.
+  **Manage software package form license scanning:** Manage the data and the package License.
 
-  **Scan for Licenses:** manage and Scan for the Licenses information.
+  **Scan for Licenses:** Manage and Scan for the Licenses information.
 
-  **Summarize project Data:** summarize the software project License Vulnerability Information came from the manger and developer.
+  **Summarize project Data:** Summarize the software project License Vulnerability Information came from the manger and developer.
 
   **Summarize Policy:** Summarize the request and process the data flow came from the developer or   manager and send to policy data store.
 
-  **Make/create policy:** upload the policy.
+  **Make/create policy:** Upload the policy.
 
   
