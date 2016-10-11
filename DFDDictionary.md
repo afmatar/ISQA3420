@@ -56,7 +56,7 @@
 **Corporate Developer:** How make and help to developer the System.
   
 **Corporate Manager:** How response about the organize and do the mission
-    for managing and check system for the project.
+   for managing and check system for the project.
 
     
 #PROCESSES
